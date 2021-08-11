@@ -63,3 +63,5 @@ int main() {
     printf("%d\n%d\n%d", result[0], result[1], result[2]);
 
 }
+
+
